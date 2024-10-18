@@ -10,6 +10,9 @@ A web app that predicts the likelihood of diabetes based on user-inputted medica
 - **Real-Time Prediction:** Get instant results for diabetes likelihood.
 - **Model-Driven:** Machine learning-powered predictions.
 
+![img.png](result1.png)
+![img.png](result2.png)
+
 ## Installation
 
 1. Clone the repository:
