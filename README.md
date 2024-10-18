@@ -46,8 +46,4 @@ A web app that predicts the likelihood of diabetes based on user-inputted medica
 1. Enter health metrics (e.g., glucose levels, blood pressure).
 2. Click **Predict** to see the results.
 
-## License
-
-This project is licensed under the MIT License.
-
 ---
